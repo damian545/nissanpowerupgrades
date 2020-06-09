@@ -1,0 +1,11 @@
+body {
+  background: url("https://i0.wp.com/www.tunedinternational.com/wp-content/uploads/2014/03/r33-sideways.jpg?fit=881%2C386")
+    no-repeat center center fixed;
+  background-size: cover;
+}
+h1 {
+  color: red;
+}
+p {
+  color: yellow;
+}

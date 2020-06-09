@@ -1,0 +1,14 @@
+body {
+  background: url("https://image.shutterstock.com/image-photo/paper-vintage-background-260nw-562017133.jpg")
+    no-repeat center center fixed;
+  background-size: cover;
+}
+h1 {
+  color: red;
+}
+p {
+  color: black;
+}
+h1 {
+  text-align: center;
+}
